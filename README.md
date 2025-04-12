@@ -1,4 +1,4 @@
-![pixelgif](https://github.com/user-attachments/assets/c260a0f0-97f6-4535-86fc-25ab344ba849)
+
 ## Hi there 👋
 
 <!--
