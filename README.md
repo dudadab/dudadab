@@ -1,4 +1,7 @@
-![Welcome to my GitHub](https://capsule-render.vercel.app/api?type=venom&color=139,0,139&height=300&section=header&text=Welcome%20to%20my%20GitHub&fontSize=60&textEffect=typing&textColor=255,255,255)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Good%20to%20see%20you&height=120&section=header&fontSize=50&fontColor=FFFFFF&animation=fadeIn&customColorList=ADD8E6,87CEEB,87CEFA,B0E0E6" />
+</p>
+
 ## Hi there 👋
 
 <!--
