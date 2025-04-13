@@ -1,4 +1,10 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=캡슐%20렌더&fontSize=90" alt="캡슐 렌더 헤더">
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=타이핑%20효과%20추가!&font=맑은%20고딕&center=true&width=600&height=50&duration=2000&color=white" alt="타이핑 효과">
+</div>
 ## Hi there 👋
 
 <!--
