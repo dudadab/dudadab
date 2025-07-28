@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Profile 3D Contrib](profile-3d-contrib/profile-green.svg)
+![GitHub Profile 3D Contrib](profile-3d-contrib/profile-green-animate.svg)
