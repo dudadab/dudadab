@@ -4,6 +4,18 @@
 
 ## Hi there 👋
 
+<div>
+  <h3>🔥Skills</h3>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
+  <br/>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abluehour&layout=compact&exclude_repo=CROFFLE)
+</div>
+
 <!--
 **dudadab/dudadab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
