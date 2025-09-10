@@ -16,6 +16,10 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudadab&layout=compact&exclude)
 </div>
 
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="GitHub Profile 3D Contrib" />
+</div>
+
 <!--
 **dudadab/dudadab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
