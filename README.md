@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-green.svg" alt="GitHub Profile 3D Contrib" />
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="GitHub Profile 3D Contrib" />
 </div>
 
 <!--
