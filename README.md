@@ -7,9 +7,7 @@
 <div>
   <h3>Study</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,react,svelte)](https://skillicons.dev)
-  
-  [![My Skills](https://skillicons.dev/icons?i=javasript,typescript)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,react,svelte,js,typescript)](https://skillicons.dev)
 
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudadab&layout=compact&exclude) -->
 </div>
