@@ -6,11 +6,10 @@
 
 <div>
   <h3>Study</h3>
+  
   [![My Skills](https://skillicons.dev/icons?i=java,spring,react,svelte)](https://skillicons.dev)
-  <br/>
+  
   [![My Skills](https://skillicons.dev/icons?i=javasript,typescript)](https://skillicons.dev)
-  <br/>
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,nestjs)](https://skillicons.dev)
 
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudadab&layout=compact&exclude) -->
 </div>
