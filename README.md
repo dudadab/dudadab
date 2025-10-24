@@ -7,7 +7,7 @@
 <div>
   <h3>Study</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,react,svelte,js,typescript,oracledb,mysql,postgresql&t=light)](https://skillicons.dev)
+  ![My Skills](https://custom-skill-icons.netlify.app/icons?i=java,spring,react,svelte,js,typescript,oracledb,mysql,postgresql&t=light)
 
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudadab&layout=compact&exclude) -->
 </div>
